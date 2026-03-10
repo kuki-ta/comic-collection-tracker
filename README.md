@@ -4,7 +4,8 @@ SQL database to track and analyze a comic book collection, built with SQLite and
 Semi vibe-coded and reverse-engineered Python script for the API call with Claude. 
 Preferred to call real data instead of making it up and populating manually.
 
- {        ,..........   ..........,
+```
+         ,..........   ..........,
      ,..,'          '.'          ',..,
     ,' ,'            :            ', ',
    ,' ,'             :             ', ',
@@ -12,4 +13,5 @@ Preferred to call real data instead of making it up and populating manually.
  ,' ,'............., : ,.............', ',
 ,'  '............   '.'   ............'  ',
  '''''''''''''''''';''';''''''''''''''''''
-                    '''}
+                    '''
+```
